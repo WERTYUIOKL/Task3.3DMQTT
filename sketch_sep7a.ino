@@ -21,7 +21,6 @@ void setup() {
   // Initialize serial monitor
   Serial.begin(115200);
 
-  // Initialize LED pin
   pinMode(ledPin, OUTPUT);
 
   // Connect to WiFi
