@@ -22,7 +22,6 @@ void setup() {
   // Initialize serial monitor
   Serial.begin(115200);
 
-  // Initialize pins
   pinMode(trigPin, OUTPUT);
   pinMode(echoPin, INPUT);
 
