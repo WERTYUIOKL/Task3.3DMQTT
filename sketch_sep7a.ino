@@ -9,7 +9,7 @@ const char* password = "rakeshsingh";
 const char* mqttServer = "broker.emqx.io";
 const int mqttPort = 1883;
 const char* mqttTopicWave = "SIT210wavesAkshit";
-const char* mqttTopicPat = "SIT210wavesAkshit";
+const char* mqttTopicPat = "SIT210wavespatAkshit";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
